@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hashim</h1>
 <h3 align="center">A passionate Embedded Software Engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **C programming**
 
 - 📫 How to reach me **mohamedhashim173@gmail.com**
 
