@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋! My name is Mohamed Hashim<br>and I'm an Embedded Software Engineer, from Egypt.</h1>
-
-###
-
 <h1 align="center">Hi 👋, I'm Mohamed Hashim</h1>
 <h3 align="center">A passionate Embedded Software Engineer from Egypt</h3>
+
 
 - 🌱 I’m currently learning **C programming**
 
